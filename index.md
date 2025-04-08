@@ -6,6 +6,16 @@ FriendScope, Snapchat arkadaş listenizi yönetmenize yardımcı olan bağımsı
 
 FriendScope, Snapchat Inc. ile hiçbir şekilde bağlantılı değildir ve Snapchat Inc. tarafından desteklenmemektedir. Snapchat™ markası ve logosu, Snap Inc.'in tescilli ticari markalarıdır.
 
+## Teknik Altyapı ve Güvenlik
+
+FriendScope, kullanıcı verilerinizi ve gizliliğinizi korumak için gelişmiş güvenlik önlemleri alır:
+
+- **Güvenli VPS Sunucu Altyapısı:** Tüm hassas kimlik doğrulama işlemleri, özel VPS sunucularımız üzerinde gerçekleştirilir
+- **Client Secret Koruması:** Snapchat API kimlik bilgileri asla mobil cihazlarda saklanmaz, tüm token işlemleri güvenli backend sunucumuz üzerinden yapılır
+- **Düşük Gecikme:** Optimizasyon sayesinde 19ms P95 gecikme süreleri ile hızlı performans
+- **7/24 Aktif Sunucular:** PM2 ile yönetilen, sürekli erişilebilir backend hizmetleri
+- **Yerel Veri Saklama:** Arkadaş listeniz ve kişisel verileriniz sadece kendi cihazınızda saklanır
+
 ## Dokümanlar
 
 - [Gizlilik Politikası](privacy-policy.md)
@@ -25,4 +35,4 @@ FriendScope uygulaması:
 - Snapchat Inc. tarafından onaylanmamıştır
 - Snapchat Inc. ile herhangi bir ortaklık ilişkisi yoktur
 
-Tüm hakları saklıdır © 2024 FriendScope
+Tüm hakları saklıdır © 2025 FriendScope
