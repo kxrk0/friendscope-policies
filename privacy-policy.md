@@ -1,6 +1,6 @@
 # FriendScope Gizlilik Politikası
 
-Son güncelleme: 08.04.2024
+Son güncelleme: 08.04.2025
 
 ## 1. Giriş
 
@@ -23,8 +23,8 @@ FriendScope, Snapchat Inc. ile hiçbir şekilde bağlantılı değildir ve Snapc
 - Kullanıcı deneyimini iyileştirmek
 
 ### 3.3 Veri Saklama
-- Tüm veriler yerel olarak, sadece sizin cihazınızda saklanır
-- Hiçbir veri uzak sunucularda depolanmaz
+- Tüm kişisel veriler yerel olarak, sadece sizin cihazınızda saklanır
+- Hiçbir kişisel veri uzak sunucularda depolanmaz
 - Veriler şifreli olarak saklanır
 
 ## 4. Snapchat API Kullanımı
@@ -33,19 +33,28 @@ FriendScope, Snapchat Inc. ile hiçbir şekilde bağlantılı değildir ve Snapc
 - Sadece izin verilen verilere erişiriz
 - Snapchat'in geliştirici politikalarına tam uyum sağlarız
 
-## 5. Veri Güvenliği
+## 5. VPS Sunucu ve Backend Kullanımı
+
+- OAuth kimlik doğrulama işlemleri güvenli VPS sunucularımız üzerinden gerçekleştirilir
+- Sunucularımızda sadece token işleme ve yetkilendirme işlemleri yapılır
+- Client Secret ve API anahtarları gibi hassas bilgiler sadece sunucuda saklanır, mobil uygulamaya gönderilmez
+- Sunucularımız 7/24 aktif ve düzenli olarak güvenlik denetimine tabi tutulur
+- İstek gecikmesi (latency) sürekli izlenir ve performans optimizasyonu sağlanır
+
+## 6. Veri Güvenliği
 
 - En güncel güvenlik protokollerini kullanırız
 - Verileriniz şifrelenerek saklanır
 - Düzenli güvenlik güncellemeleri yaparız
+- Backend altyapımız sürekli izlenerek olası saldırılara karşı korunur
 
-## 6. Üçüncü Taraf Paylaşımı
+## 7. Üçüncü Taraf Paylaşımı
 
 - Verileriniz üçüncü taraflarla paylaşılmaz
 - Analitik veya reklam amaçlı veri toplama yapılmaz
-- Tüm veriler sadece cihazınızda kalır
+- Tüm kişisel veriler sadece cihazınızda kalır
 
-## 7. Kullanıcı Hakları
+## 8. Kullanıcı Hakları
 
 Kullanıcı olarak şu haklara sahipsiniz:
 - Verilerinize erişim
@@ -53,12 +62,12 @@ Kullanıcı olarak şu haklara sahipsiniz:
 - Uygulamayı kullanmayı durdurma
 - Hesabınızı kaldırma
 
-## 8. İletişim
+## 9. İletişim
 
 Gizlilik politikamız hakkında sorularınız için:
 - E-posta: privacy@friendscope.app
 - Web: www.friendscope.app/contact
 
-## 9. Değişiklikler
+## 10. Değişiklikler
 
 Bu gizlilik politikası periyodik olarak güncellenebilir. Önemli değişiklikler olduğunda sizi bilgilendireceğiz.
