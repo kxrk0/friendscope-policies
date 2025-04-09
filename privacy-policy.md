@@ -65,8 +65,8 @@ Kullanıcı olarak şu haklara sahipsiniz:
 ## 9. İletişim
 
 Gizlilik politikamız hakkında sorularınız için:
-- E-posta: privacy@friendscope.app
-- Web: www.friendscope.app/contact
+- E-posta: mixedbykxrk@yandex.com
+- Web: -
 
 ## 10. Değişiklikler
 
