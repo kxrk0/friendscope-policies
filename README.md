@@ -13,8 +13,8 @@ Politika dokümanlarına https://kxrk0.github.io/friendscope-policies/ adresinde
 
 ## İletişim
 
-- E-posta: support@friendscope.app
-- Web: www.friendscope.app/contact
+- E-posta: mixedbykxrk@yandex.com
+- Web: -
 
 ## Lisans
 
