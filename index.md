@@ -25,8 +25,8 @@ FriendScope, kullanıcı verilerinizi ve gizliliğinizi korumak için gelişmiş
 
 Sorularınız ve geri bildirimleriniz için:
 
-- E-posta: support@friendscope.app
-- Web: www.friendscope.app/contact
+- E-posta: mixedbykxrk@yandex.com
+- Web: -
 
 ## Yasal Uyarı
 
