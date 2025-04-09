@@ -98,8 +98,8 @@ Kullanıcı:
 ## 10. İletişim
 
 Sorularınız için:
-- E-posta: support@friendscope.app
-- Web: www.friendscope.app/contact
+- E-posta: mixedbykxrk@yandex.com
+- Web: -
 
 ## 11. Geçerli Hukuk
 
